@@ -1,2 +1,2 @@
 # BuildYourOwnAI
-A Template to build your own artificial intelligence
+A Software to build your own Artificial intelligence
