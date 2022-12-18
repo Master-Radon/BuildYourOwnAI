@@ -1,0 +1,12 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["Hello", "Hey!"],
+    "responses": ["Hello to you!", "I'm here!"],
+    "context": [""]
+  },
+  {"tag": "feeling",
+    "patterns": ["How are you?","How do you feel?"],
+    "responses": ["Good","Bad","Almost Good","Enough Good","Not Bad"],
+    "context": [""]
+  }
+]}
